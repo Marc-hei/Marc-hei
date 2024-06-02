@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently stuying Business Informatics at the University of Zurich.
 - 💞️ I’m looking to collaborate on client-server applications.
-- 📫 How to reach me: [my.pages.uzh.ch/marcheinimann/](https://my.pages.uzh.ch/marcheinimann/)
+- 📫 How to reach me: [https://marc-hei.github.io](https://marc-hei.github.io)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm new to this!
 
