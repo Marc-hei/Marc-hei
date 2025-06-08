@@ -7,7 +7,9 @@
 - ⚡ Fun fact: I'm new to this!
 
 # 🏗️ Projects:
-- [Portfolio](https://marc-hei.github.io/) 
+- **Personal Portfolio**: [Explore](https://marc-hei.github.io/), [Code](https://github.com/Marc-hei/Marc-hei.github.io)
+- **Sustainability Questionnaire**: [Explore](https://nachhaltigkeit.obt.ch), Code private
+- **Get-Together - a Web App for Friends**: [Explore](https://sopra-fs24-group-11-client.oa.r.appspot.com/), Code private
 
 # 💻 Tech Stack:
 ## Languages:
