@@ -6,10 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm new to this!
 
-# 🏗️ Projects:
-- **Personal Portfolio**: [Explore](https://marc-hei.github.io/), [Code](https://github.com/Marc-hei/Marc-hei.github.io)
-- **Sustainability Questionnaire**: [Explore](https://nachhaltigkeit.obt.ch), Code private
-- **Get-Together - a Web App for Friends**: [Explore](https://sopra-fs24-group-11-client.oa.r.appspot.com/), [Code](https://github.com/sopra-fs24-group-11)
 
 # 💻 Tech Stack:
 ## Languages:
