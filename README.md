@@ -1,7 +1,7 @@
 ## About Me:
 - 👋 Hi, I’m @Marc-hei
 - 👀 I’m interested in Web Security, System Security, and Cryptography.
-- 🌱 I’m currently stuying Cybersecurity at ETH Zurich.
+- 🌱 I’m currently studying Cybersecurity at ETH Zurich.
 - 📫 How to reach me: [https://marc-hei.github.io](https://marc-hei.github.io)
 - 😄 Pronouns: He/Him
 
