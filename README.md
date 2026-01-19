@@ -1,11 +1,9 @@
 ## About Me:
 - 👋 Hi, I’m @Marc-hei
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently stuying Business Informatics at the University of Zurich.
-- 💞️ I’m looking to collaborate on client-server applications.
+- 👀 I’m interested in Web Security, System Security, and Cryptography.
+- 🌱 I’m currently stuying Cybersecurity at ETH Zurich.
 - 📫 How to reach me: [https://marc-hei.github.io](https://marc-hei.github.io)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm new to this!
 
 
 
